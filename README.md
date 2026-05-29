@@ -1,2 +1,10 @@
-# Telegram-Car-Ad-Bot
-  Python bot that automates car advertisement image generation using Pillow.
+# Telegram Car Ad Bot
+هذا المشروع عبارة عن بوت بايثون يقوم بأتمتة تصميم إعلانات السيارات.
+
+### المميزات التقنية:
+- استخدام مكتبة **Pillow (PIL)** لمعالجة الصور.
+- دمج النصوص (الاسم، السعر، المواصفات) على قوالب جاهزة بدقة.
+- نظام تحقق (Validation) لضمان جودة الصور قبل التوليد.
+
+### نموذج للمخرجات (Demo):
+![نموذج إعلان سيارة](final_demo.jpg)
